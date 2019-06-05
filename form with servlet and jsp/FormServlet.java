@@ -1,4 +1,4 @@
-package com.highradius.controller;
+package com.mypack;
 
 import java.io.IOException;
 import java.io.PrintWriter;
